@@ -20,7 +20,8 @@
 
     margin: 3px 0 3px 0;
     display: none;
-    flex-direction: column;
+    flex-direction: column
+    ;
 }
 
 #avtive_nav {
