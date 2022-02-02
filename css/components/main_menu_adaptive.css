@@ -424,3 +424,375 @@
         margin-top: 0;
     }
 }
+
+@media (min-width: 2100px) {
+    .indent_t {
+        margin-top: 250px;
+    }
+
+    .big_title {
+        font-size: 72px;
+    }
+
+    .logo img {
+        width: 75px;
+        height: 60px;
+    }
+
+    .desc a, 
+    .desc p {
+        font-size: 32px;
+        line-height: 45px;
+    }
+
+    .about button {
+        height: 80px;
+        font-size: 32px;
+    }
+
+    .about img {
+        width: 1100px;
+        height: 500px;
+    }
+
+    .main_title {
+        width: 48%;
+    }
+
+    .title h1 {
+        font-size: 54px;
+        line-height: 60px;
+    }
+
+    .banner {
+        height: auto;
+        padding: 60px 0 40px 0;
+    }
+
+    .wrap_block img {
+        width: 270px;
+        height: 250px;
+    }
+
+    .search,
+    .access,
+    .print,
+    .security {
+        background-size: 85% 450px;
+    }
+
+    .wrap_block {
+        height: 450px;
+    }
+
+    .s_title h1 {
+        font-size: 42px;
+    }
+
+    .s_desc a, 
+    .s_desc p {
+        font-size: 26px;
+        line-height: 40px;
+    }
+
+    .block_text {
+        margin-left: 5%;
+        width: 55%;
+    }
+
+    .block_text div {
+        margin-bottom: 35px;
+    }
+
+    .button_block a {
+        font-size: 32px;
+    }
+
+    .button_block img {
+        width: 37px !important;
+        height: 27px !important;
+        padding-left: 35px;
+    }
+
+    .e_mail_card h1 {
+        font-size: 42px;
+    }
+
+    .img_card img {
+        width: 140px;
+    }
+
+    .e_mail_card p {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+
+    .s_desc_card p {
+        font-size: 28px;
+        line-height: 44px;
+        margin-top: 20px;
+    }
+
+    .testimonials {
+        height: 900px;
+    }
+
+    .absolute_card {
+        height: 53%;
+        left: 17%;
+        width: 83%;
+    }
+
+    .card {
+        height: 450px;
+        padding: 70px 30px 0 70px;
+    }
+
+    .card.active {
+        width: 69%;
+        padding: 70px 30px 0 89px;
+    }
+
+    .point {
+        width: 15px;
+        height: 15px;
+    }
+
+    .point.active {
+        width: 25px;
+        height: 26px;
+    }
+
+    .back_cursor img {
+        width: 80px;
+    }
+
+    .next_cursor img {
+        width: 40px;
+    }
+
+    .logo_footer h1 {
+        font-size: 36px;
+    }
+
+    .adress_footer a {
+        font-size: 28px;
+    }
+
+    .phone_footer a {
+        font-size: 26px;
+    }
+
+    .copyright p {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .media_footer h1 {
+        font-size: 36px;
+    }
+
+    
+    .soc_media a {
+        width: 100px;
+        height: 100px;
+    }
+
+    .facebook img {
+        width: 35px;
+        height: 60px;
+    }
+
+    .twitter img {
+        width: 65px;
+        height: 50px;
+    }
+
+    .instagram img {
+        width: 65px;
+        height: 65px;
+    }
+}
+
+@media (min-width: 2900px) {
+    .logo img {
+        width: 90px;
+        height: 75px;
+    }
+
+    .desc a, 
+    .desc p {
+        font-size: 38px;
+        line-height: 60px;
+    }
+
+    .big_title {
+        font-size: 100px;
+        line-height: 120px;
+    }
+
+    .about button {
+        height: 100px;
+        font-size: 38px;
+    }
+
+    .about img {
+        width: 1400px;
+        height: 750px;
+    }
+
+    .banner img {
+        width: 600px;
+        height: 630px;
+    }
+
+    .title h1 {
+        font-size: 60px;
+        line-height: 80px;
+    }
+
+    .wrap_block img {
+        width: 390px;
+        height: 370px;
+    }
+
+    .search,
+    .access,
+    .print,
+    .security {
+        background-size: 85% 550px;
+    }
+
+    .wrap_block {
+        height: 550px;
+    }
+
+    .s_title h1 {
+        font-size: 48px;
+    }
+
+    .s_desc a, 
+    .s_desc p {
+        font-size: 32px;
+        line-height: 50px;
+    }
+
+    .block_text {
+        margin-left: 5%;
+        width: 55%;
+    }
+
+    .block_text div {
+        margin-bottom: 35px;
+    }
+
+    .button_block a {
+        font-size: 36px;
+    }
+
+    .button_block img {
+        width: 47px !important;
+        height: 37px !important;
+        padding-left: 35px;
+    }
+
+    .e_mail_card h1 {
+        font-size: 50px;
+    }
+
+    .img_card img {
+        width: 180px;
+    }
+
+    .e_mail_card p {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    .s_desc_card p {
+        font-size: 34px;
+        line-height: 44px;
+        margin-top: 20px;
+    }
+
+    .testimonials {
+        height: 900px;
+    }
+
+    .absolute_card {
+        height: 53%;
+        left: 17%;
+        width: 83%;
+    }
+
+    .card {
+        height: 450px;
+        padding: 70px 30px 0 70px;
+    }
+
+    .card.active {
+        width: 69%;
+        padding: 70px 30px 0 89px;
+    }
+
+    .point {
+        width: 20px;
+        height: 20px;
+    }
+
+    .point.active {
+        width: 35px;
+        height: 36px;
+    }
+
+    .back_cursor img {
+        width: 100px;
+    }
+
+    .next_cursor img {
+        width: 50px;
+    }
+
+    .logo_footer h1 {
+        font-weight: 600;
+        font-size: 42px;
+    }
+
+    .adress_footer a {
+        font-size: 34px;
+    }
+
+    .phone_footer a {
+        font-size: 32px;
+    }
+
+    .copyright p {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .media_footer h1 {
+        font-size: 42px;
+    }
+
+    
+    .soc_media a {
+        width: 120px;
+        height: 120px;
+    }
+
+    .facebook img {
+        width: 40px;
+        height: 65px;
+    }
+
+    .twitter img {
+        width: 70px;
+        height: 55px;
+    }
+
+    .instagram img {
+        width: 70px;
+        height: 70px;
+    }
+}

@@ -159,8 +159,8 @@
 }
 
 .button_block img {
-    width: 17px;
-    height: 12px;
+    width: 17px !important;
+    height: 12px !important;
 
     padding-left: 15px;
 }
