@@ -195,6 +195,9 @@
 
 .search::after {
     content: ' ';
+/*TODO: Два css-свойства для background и background-repeat можно заменить так:
+    background: url("../../img/fon_2/Vector_56.png") no-repeat;
+*/
     background: url("../../img/fon_2/Ellipse_61.png");
     position: absolute;
     background-size:contain;
@@ -365,6 +368,7 @@
     border: 1px solid #9c69e2;
     box-sizing: border-box;
     border-radius: 20px;
+/*TODO: не нужно указывать нулевым значениям единицы измерения 0px / 0% -> 0*/
     box-shadow: 0px 20px 0px rgba(179, 137, 238, 0.3);
     z-index: 5;
 
@@ -567,7 +571,7 @@
     margin-left: 90px;
     margin-bottom: 80px;
 }
-
+/*TODO: опечатки в названиях классов */
 .cusor_icon {
     margin-right: 9%;
     display: flex;
